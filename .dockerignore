@@ -1,0 +1,24 @@
+# Git
+.git
+.gitignore
+
+# Node
+node_modules
+client/node_modules
+npm-debug.log
+yarn-error.log
+
+# Build local
+build
+dist
+coverage
+
+# Pipeline
+pipeline
+
+# Env
+.env
+.env.*
+
+# OS
+.DS_Store
